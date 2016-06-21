@@ -1,0 +1,24 @@
+{
+  "name": "flight-prices",
+  "version": "1.0.0",
+  "description": "bi-hourly updates on prices of flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhorrig/flight-prices.git"
+  },
+  "author": "adam horrigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adhorrig/flight-prices/issues"
+  },
+  "homepage": "https://github.com/adhorrig/flight-prices#readme",
+  "dependencies": {
+    "nodemailer": "^2.4.2",
+    "nodemailer-dkim": "^1.0.4",
+    "request": "^2.72.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "request": {
+    "passengers": {
+      "adultCount":1
+    },
+    "maxPrice": "EUR350",
+    "solutions": "1",
+  "slice": [
+        {
+          "origin": "DUB",
+          "destination": "LPL",
+          "date": "2016-07-13"
+        },
+        {
+          "origin": "LPL",
+          "destination": "DUB",
+          "date": "2016-07-25"
+        }
+      ]
+    }
+}
